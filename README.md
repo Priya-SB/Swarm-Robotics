@@ -1,8 +1,10 @@
 # Swarm-Robotics
 A Self-Organizing Multi-agent Co-operative Robot system
+
+---
 Cohort Intelligence in Rescue Operation 
 -----------------------------------------------------------------------------------------------------------------------
-Please refer Repository on Cohort Intelligence for CI Algorithm.
+[Please refer Repository on Cohort Intelligence for CI Algorithm.]
 
 The tests were conducted by randomly positioning the robots in an arena with static and unknown environment.
 The environment may consist of zero or more rectangular obstacles. 
@@ -10,7 +12,7 @@ The robots can interact with each other and follow other robots in order to impr
 The ultimate goal of the cohort is to reach the light source (origin).
 The behaviour of the cohort has been modeled and represented here.
 
-[This project is based on the chapter in the book 'Socio-cultural Inspired Metaheuristics' Springer publication. 
+[This project is based on a chapter in the book 'Socio-cultural Inspired Metaheuristics' Springer publication. 
 The chapter has been attached as cohort.pdf in this repository.]
 
 ------------------------------------------------------------------------------------------------------------------------
